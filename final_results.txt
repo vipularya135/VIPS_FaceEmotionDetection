@@ -1,0 +1,38 @@
+Model: Full Data Model
+Training Accuracy:  0.733
+Validation Accuracy:  0.677
+
+Model: High Confidence Data Model
+Training Accuracy:  0.763
+Validation Accuracy:  0.707
+
+Model: Low Confidence Data Model
+Training Accuracy:  0.713
+Validation Accuracy:  0.667
+
+Class distribution in Full Data:
+happy       8302
+neutral     6242
+sad         6054
+fear        5169
+angry       5153
+surprise    4484
+disgust     1714
+
+Class distribution in High Confidence Data:
+happy       4204
+neutral     3180
+sad         2989
+angry       2577
+fear        2535
+surprise    2237
+disgust      840
+
+Class distribution in Low Confidence Data:
+happy       4098
+sad         3065
+neutral     3062
+fear        2634
+angry       2576
+surprise    2247
+disgust      874
